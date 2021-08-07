@@ -1,2 +1,0 @@
-# NovaIsland
-Translation nova Island
